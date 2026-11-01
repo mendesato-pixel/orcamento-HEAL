@@ -147,3 +147,29 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# --- Segredos ---
+.env
+.env.*
+!.env.example
+
+# --- Dados reais (nunca no repositório) ---
+data/real/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+!data/mock/**/*.csv
+*.docx
+*.pdf
+*.sql.gz
+*.dump
+
+# --- Sistema e editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Vercel ---
+.vercel

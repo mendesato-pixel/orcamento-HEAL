@@ -1,0 +1,170 @@
+[
+ {
+  "conta": "Material de consumo",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.001",
+  "codigo_administrativo": "4.3.01.001"
+ },
+ {
+  "conta": "Material de escritório",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.002",
+  "codigo_administrativo": "4.3.01.002"
+ },
+ {
+  "conta": "Materiais médico-hospitalares",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.003",
+  "codigo_administrativo": "4.3.01.003"
+ },
+ {
+  "conta": "Medicamentos",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.004",
+  "codigo_administrativo": "4.3.01.004"
+ },
+ {
+  "conta": "Gêneros alimentícios",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.005",
+  "codigo_administrativo": "4.3.01.005"
+ },
+ {
+  "conta": "Uniformes e EPI",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.006",
+  "codigo_administrativo": "4.3.01.006"
+ },
+ {
+  "conta": "Bens de pequeno valor",
+  "grupo_gasto": "Materiais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.01.007",
+  "codigo_administrativo": "4.3.01.007"
+ },
+ {
+  "conta": "Serviços de terceiros PJ",
+  "grupo_gasto": "Serviços de terceiros",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.02.001",
+  "codigo_administrativo": "4.3.02.001"
+ },
+ {
+  "conta": "Serviços de terceiros PF (RPA)",
+  "grupo_gasto": "Serviços de terceiros",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.02.002",
+  "codigo_administrativo": "4.3.02.002"
+ },
+ {
+  "conta": "Consultoria e assessoria",
+  "grupo_gasto": "Serviços de terceiros",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.02.003",
+  "codigo_administrativo": "4.3.02.003"
+ },
+ {
+  "conta": "Licenças e assinaturas de software",
+  "grupo_gasto": "Tecnologia (despesa)",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.03.001",
+  "codigo_administrativo": "4.3.03.001"
+ },
+ {
+  "conta": "Telecomunicações e internet",
+  "grupo_gasto": "Tecnologia (despesa)",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.03.002",
+  "codigo_administrativo": "4.3.03.002"
+ },
+ {
+  "conta": "Manutenção predial",
+  "grupo_gasto": "Manutenção e conservação",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.04.001",
+  "codigo_administrativo": "4.3.04.001"
+ },
+ {
+  "conta": "Manutenção de equipamentos",
+  "grupo_gasto": "Manutenção e conservação",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.04.002",
+  "codigo_administrativo": "4.3.04.002"
+ },
+ {
+  "conta": "Treinamento e capacitação",
+  "grupo_gasto": "Pessoal e benefícios",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.05.001",
+  "codigo_administrativo": "4.3.05.001"
+ },
+ {
+  "conta": "Exames e laudos ocupacionais",
+  "grupo_gasto": "Pessoal e benefícios",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.05.002",
+  "codigo_administrativo": "4.3.05.002"
+ },
+ {
+  "conta": "Eventos e atividades terapêuticas",
+  "grupo_gasto": "Atividades assistenciais",
+  "tipo": "Despesa",
+  "codigo_operacional": "4.2.06.001",
+  "codigo_administrativo": "4.3.06.001"
+ },
+ {
+  "conta": "Máquinas e equipamentos",
+  "grupo_gasto": "Equipamentos e mobiliário",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.3.01",
+  "codigo_administrativo": "1.2.3.01"
+ },
+ {
+  "conta": "Equipamentos médico-hospitalares",
+  "grupo_gasto": "Equipamentos e mobiliário",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.3.02",
+  "codigo_administrativo": "1.2.3.02"
+ },
+ {
+  "conta": "Móveis e utensílios",
+  "grupo_gasto": "Equipamentos e mobiliário",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.3.03",
+  "codigo_administrativo": "1.2.3.03"
+ },
+ {
+  "conta": "Computadores e periféricos",
+  "grupo_gasto": "Tecnologia (investimento)",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.3.04",
+  "codigo_administrativo": "1.2.3.04"
+ },
+ {
+  "conta": "Software (licença perpétua)",
+  "grupo_gasto": "Tecnologia (investimento)",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.4.01",
+  "codigo_administrativo": "1.2.4.01"
+ },
+ {
+  "conta": "Instalações",
+  "grupo_gasto": "Instalações",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.2.01",
+  "codigo_administrativo": "1.2.2.01"
+ },
+ {
+  "conta": "Veículos",
+  "grupo_gasto": "Veículos",
+  "tipo": "Investimento",
+  "codigo_operacional": "1.2.3.05",
+  "codigo_administrativo": "1.2.3.05"
+ }
+]

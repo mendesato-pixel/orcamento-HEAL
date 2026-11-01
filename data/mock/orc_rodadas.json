@@ -1,0 +1,26 @@
+[
+ {
+  "rodada": "1ª rodada",
+  "data": "2026-10-24",
+  "despesas": 5914657.16,
+  "investimentos": 4915933.54,
+  "vagas": 1850439.16,
+  "alertas_abertos": 142
+ },
+ {
+  "rodada": "2ª rodada",
+  "data": "2026-10-28",
+  "despesas": 5313166.6,
+  "investimentos": 5567442.8,
+  "vagas": 1715861.77,
+  "alertas_abertos": 97
+ },
+ {
+  "rodada": "3ª rodada",
+  "data": "2026-10-31",
+  "despesas": 5012421.32,
+  "investimentos": 5922811.49,
+  "vagas": 1682217.42,
+  "alertas_abertos": 56
+ }
+]

@@ -1,0 +1,732 @@
+[
+ {
+  "id_item": "I-005",
+  "setor": "CETAS",
+  "item": "Mobiliário para sala de convivência",
+  "classificacao_final": "Investimento",
+  "total_2027": 37316.51,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-006",
+  "setor": "CETAS",
+  "item": "Reforma de consultórios",
+  "classificacao_final": "Investimento",
+  "total_2027": 2831790,
+  "tipo_alerta": "Provável erro de frequência",
+  "detalhe": "Obra única lançada como mensal (12×). Confirmar com o setor.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-006",
+  "setor": "CETAS",
+  "item": "Reforma de consultórios",
+  "classificacao_final": "Investimento",
+  "total_2027": 2831790,
+  "tipo_alerta": "Valor atípico",
+  "detalhe": "Valor muito acima do padrão do setor.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "I-012",
+  "setor": "CETAS",
+  "item": "Armários para postos de enfermagem",
+  "classificacao_final": "Investimento",
+  "total_2027": 36249.78,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-015",
+  "setor": "CETAS",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 12110.49,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-018",
+  "setor": "Compras",
+  "item": "Cadeira de escritório",
+  "classificacao_final": "Despesa",
+  "total_2027": 3394.85,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-019",
+  "setor": "Compras",
+  "item": "Computadores (troca periódica)",
+  "classificacao_final": "Investimento",
+  "total_2027": 37631.44,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-023",
+  "setor": "Compras",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 16931.55,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-025",
+  "setor": "Compras",
+  "item": "Armários para postos de enfermagem",
+  "classificacao_final": "Investimento",
+  "total_2027": 74172.96,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "I-027",
+  "setor": "Compras",
+  "item": "Mobiliário para sala de convivência",
+  "classificacao_final": "Investimento",
+  "total_2027": 27070.69,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-033",
+  "setor": "Comunicação",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 60974.32,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-047",
+  "setor": "Departamento Pessoal",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 17245.29,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-048",
+  "setor": "Departamento Pessoal",
+  "item": "EPIs para brigada de incêndio",
+  "classificacao_final": "Despesa",
+  "total_2027": 5092.36,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-051",
+  "setor": "Diretoria Técnica",
+  "item": "Teleatendimento (central)",
+  "classificacao_final": "Despesa",
+  "total_2027": 59697.44,
+  "tipo_alerta": "Cálculo refeito",
+  "detalhe": "Fórmula da planilha de origem retornou erro; valor recalculado pela quantidade × valor unitário.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-052",
+  "setor": "Diretoria Técnica",
+  "item": "Calibração de equipamentos médicos",
+  "classificacao_final": "Despesa",
+  "total_2027": 11598.46,
+  "tipo_alerta": "Cálculo refeito",
+  "detalhe": "Fórmula da planilha de origem retornou erro; valor recalculado pela quantidade × valor unitário.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-053",
+  "setor": "Diretoria Técnica",
+  "item": "Passeios e atividades em grupo",
+  "classificacao_final": "Despesa",
+  "total_2027": 27536.16,
+  "tipo_alerta": "Cálculo refeito",
+  "detalhe": "Fórmula da planilha de origem retornou erro; valor recalculado pela quantidade × valor unitário.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-054",
+  "setor": "Diretoria Técnica",
+  "item": "Monitor multiparamétrico",
+  "classificacao_final": "Investimento",
+  "total_2027": 46928.37,
+  "tipo_alerta": "Centro de custo",
+  "detalhe": "CC 351 não existe no cadastro de centros de custo.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-055",
+  "setor": "Diretoria Técnica",
+  "item": "Climatizador evaporativo",
+  "classificacao_final": "Investimento",
+  "total_2027": 10815.21,
+  "tipo_alerta": "Centro de custo",
+  "detalhe": "CC 357 não existe no cadastro de centros de custo.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "I-056",
+  "setor": "Diretoria Técnica",
+  "item": "Computadores (troca periódica)",
+  "classificacao_final": "Investimento",
+  "total_2027": 66143.77,
+  "tipo_alerta": "Centro de custo",
+  "detalhe": "CC 351 não existe no cadastro de centros de custo.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-061",
+  "setor": "Diretoria Técnica",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 21541.78,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-067",
+  "setor": "Diretoria Técnica",
+  "item": "Uniformes da equipe",
+  "classificacao_final": "Despesa",
+  "total_2027": 5089.33,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-068",
+  "setor": "Diretoria Técnica",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 16635.36,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-073",
+  "setor": "Enfermagem",
+  "item": "Curativos e coberturas especiais",
+  "classificacao_final": "Despesa",
+  "total_2027": 53917.92,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-075",
+  "setor": "Enfermagem",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 19212.73,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-087",
+  "setor": "Enfermagem",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 28814.69,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-093",
+  "setor": "Farmácia",
+  "item": "Link de internet dedicado",
+  "classificacao_final": "Despesa",
+  "total_2027": 23553.25,
+  "tipo_alerta": "Reclassificado",
+  "detalhe": "Serviço/consumo recorrente lançado como investimento → despesa (regra 3).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "I-096",
+  "setor": "Farmácia",
+  "item": "Climatizador evaporativo",
+  "classificacao_final": "Investimento",
+  "total_2027": 26075,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-098",
+  "setor": "Farmácia",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 37460.01,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-098",
+  "setor": "Farmácia",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 37460.01,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-100",
+  "setor": "Farmácia",
+  "item": "Armários para postos de enfermagem",
+  "classificacao_final": "Investimento",
+  "total_2027": 71000.28,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-106",
+  "setor": "Financeiro",
+  "item": "Computadores (troca periódica)",
+  "classificacao_final": "Investimento",
+  "total_2027": 120832.11,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-110",
+  "setor": "Financeiro",
+  "item": "Passeios e atividades em grupo",
+  "classificacao_final": "Despesa",
+  "total_2027": 17370.48,
+  "tipo_alerta": "Reclassificado",
+  "detalhe": "Serviço/consumo recorrente lançado como investimento → despesa (regra 3).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-115",
+  "setor": "Financeiro",
+  "item": "Cadeira de escritório",
+  "classificacao_final": "Despesa",
+  "total_2027": 8196.21,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-118",
+  "setor": "Financeiro",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 13725.24,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-120",
+  "setor": "Hotelaria",
+  "item": "Uniformes da equipe",
+  "classificacao_final": "Despesa",
+  "total_2027": 9662.39,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-121",
+  "setor": "Hotelaria",
+  "item": "Serviço de dedetização e controle de pragas",
+  "classificacao_final": "Despesa",
+  "total_2027": 13242.52,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-124",
+  "setor": "Hotelaria",
+  "item": "Exames periódicos (PCMSO)",
+  "classificacao_final": "Despesa",
+  "total_2027": 10722.08,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-126",
+  "setor": "Hotelaria",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 36752.69,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-129",
+  "setor": "Hotelaria",
+  "item": "Mobiliário para sala de convivência",
+  "classificacao_final": "Investimento",
+  "total_2027": 29884,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-136",
+  "setor": "Hotelaria",
+  "item": "Ventilador de parede",
+  "classificacao_final": "Despesa",
+  "total_2027": 1019.6,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-137",
+  "setor": "Jurídico",
+  "item": "Papel A4 e suprimentos de impressão",
+  "classificacao_final": "Despesa",
+  "total_2027": 5727.24,
+  "tipo_alerta": "Centro de custo corrigido",
+  "detalhe": "Informado CC 314 (inexistente); consolidado em 310 – Jurídico.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-138",
+  "setor": "Jurídico",
+  "item": "Cadeira de escritório",
+  "classificacao_final": "Despesa",
+  "total_2027": 1532.72,
+  "tipo_alerta": "Centro de custo corrigido",
+  "detalhe": "Informado CC 314 (inexistente); consolidado em 310 – Jurídico.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-146",
+  "setor": "Jurídico",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 13255.78,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-151",
+  "setor": "Manutenção",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 43870.76,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-155",
+  "setor": "Manutenção",
+  "item": "Adequação para AVCB",
+  "classificacao_final": "Investimento",
+  "total_2027": 205400.89,
+  "tipo_alerta": "Reclassificado",
+  "detalhe": "Obra de adequação AVCB → Instalações (investimento), regra 3.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-164",
+  "setor": "Manutenção",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 19943.86,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-165",
+  "setor": "Manutenção",
+  "item": "Mobiliário para sala de convivência",
+  "classificacao_final": "Investimento",
+  "total_2027": 12718.62,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-169",
+  "setor": "Moradia",
+  "item": "Hortifruti e perecíveis",
+  "classificacao_final": "Despesa",
+  "total_2027": 82843.8,
+  "tipo_alerta": "Possível custo corrente",
+  "detalhe": "Linha parece custo já existente da operação, não pedido novo.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-170",
+  "setor": "Moradia",
+  "item": "Material de limpeza e higienização",
+  "classificacao_final": "Despesa",
+  "total_2027": 44713.44,
+  "tipo_alerta": "Possível custo corrente",
+  "detalhe": "Linha parece custo já existente da operação, não pedido novo.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-178",
+  "setor": "Moradia",
+  "item": "Climatizador evaporativo",
+  "classificacao_final": "Investimento",
+  "total_2027": 14058.78,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-190",
+  "setor": "NISA/CCIH",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 13735.87,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-205",
+  "setor": "Nutrição",
+  "item": "Suplemento nutricional",
+  "classificacao_final": "Despesa",
+  "total_2027": 149765.76,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-206",
+  "setor": "Nutrição",
+  "item": "Hortifruti e perecíveis",
+  "classificacao_final": "Despesa",
+  "total_2027": 80505.96,
+  "tipo_alerta": "Reclassificado",
+  "detalhe": "Serviço/consumo recorrente lançado como investimento → despesa (regra 3).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-210",
+  "setor": "Nutrição",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 35391.99,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-213",
+  "setor": "Nutrição",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 20210.17,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-213",
+  "setor": "Nutrição",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 20210.17,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "D-223",
+  "setor": "RH",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 14548.43,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-229",
+  "setor": "RH",
+  "item": "Calibração de equipamentos médicos",
+  "classificacao_final": "Despesa",
+  "total_2027": 10419.54,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-230",
+  "setor": "RH",
+  "item": "Papel A4 e suprimentos de impressão",
+  "classificacao_final": "Despesa",
+  "total_2027": 7119.24,
+  "tipo_alerta": "Reclassificado",
+  "detalhe": "Serviço/consumo recorrente lançado como investimento → despesa (regra 3).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-244",
+  "setor": "Serviço Social",
+  "item": "Uniformes da equipe",
+  "classificacao_final": "Despesa",
+  "total_2027": 3707.86,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-245",
+  "setor": "Serviço Social",
+  "item": "Armários para postos de enfermagem",
+  "classificacao_final": "Investimento",
+  "total_2027": 25989.18,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-246",
+  "setor": "Serviço Social",
+  "item": "Manutenção preventiva do sistema de ar-condicionado",
+  "classificacao_final": "Despesa",
+  "total_2027": 29045.06,
+  "tipo_alerta": "Mês ajustado",
+  "detalhe": "Sem mês de início informado; lançado em JAN.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-248",
+  "setor": "Serviço Social",
+  "item": "Pintura de áreas comuns",
+  "classificacao_final": "Despesa",
+  "total_2027": 42406.05,
+  "tipo_alerta": "Mês ajustado",
+  "detalhe": "Sem mês de início informado; lançado em JAN.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-249",
+  "setor": "Serviço Social",
+  "item": "Licenças de pacote de escritório",
+  "classificacao_final": "Despesa",
+  "total_2027": 23714.35,
+  "tipo_alerta": "Mês ajustado",
+  "detalhe": "Sem mês de início informado; lançado em JAN.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-250",
+  "setor": "Serviço Social",
+  "item": "Link de internet dedicado",
+  "classificacao_final": "Despesa",
+  "total_2027": 18720.96,
+  "tipo_alerta": "Mês ajustado",
+  "detalhe": "Sem mês de início informado; lançado em JAN.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "I-256",
+  "setor": "TI",
+  "item": "Software de gestão de prontuário",
+  "classificacao_final": "Investimento",
+  "total_2027": 86424.4,
+  "tipo_alerta": "Classificação divergente",
+  "detalhe": "Tipo em branco; classificado pela natureza da conta (regra 2).",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "D-261",
+  "setor": "TI",
+  "item": "Capacitação em segurança do paciente",
+  "classificacao_final": "Despesa",
+  "total_2027": 13384.11,
+  "tipo_alerta": "Sugestão de classificação",
+  "detalhe": "Bem durável acima de R$ 1.200 em conta de despesa: avaliar como investimento.",
+  "status": "Resolvido"
+ },
+ {
+  "id_item": "V-06",
+  "setor": "Moradia",
+  "item": "Vaga: Cuidador",
+  "classificacao_final": "Despesa (pessoal)",
+  "total_2027": 0,
+  "tipo_alerta": "Sem valor",
+  "detalhe": "Cargo fora da tabela do RH e salário não informado – custo ficou zero.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "V-09",
+  "setor": "TI",
+  "item": "Vaga: Analista de suporte",
+  "classificacao_final": "Despesa (pessoal)",
+  "total_2027": 77141.97,
+  "tipo_alerta": "Não é aumento de quadro",
+  "detalhe": "Justificativa indica substituição ou ajuste salarial. Avaliar só a diferença.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "V-10",
+  "setor": "NISA/CCIH",
+  "item": "Vaga: Enfermeiro de controle de infecção",
+  "classificacao_final": "Despesa (pessoal)",
+  "total_2027": 92421.36,
+  "tipo_alerta": "Não é aumento de quadro",
+  "detalhe": "Justificativa indica substituição ou ajuste salarial. Avaliar só a diferença.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "V-11",
+  "setor": "Departamento Pessoal",
+  "item": "Vaga: Analista de DP",
+  "classificacao_final": "Despesa (pessoal)",
+  "total_2027": 48073.98,
+  "tipo_alerta": "Não é aumento de quadro",
+  "detalhe": "Justificativa indica substituição ou ajuste salarial. Avaliar só a diferença.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "V-15",
+  "setor": "Comunicação",
+  "item": "Vaga: Jovem aprendiz",
+  "classificacao_final": "Despesa (pessoal)",
+  "total_2027": 12298.02,
+  "tipo_alerta": "Pessoal fora de NOVAS_VAGAS",
+  "detalhe": "Também aparece em PEDIDOS do setor; evitar duplicidade.",
+  "status": "Aberto"
+ },
+ {
+  "id_item": "V-18",
+  "setor": "CETAS",
+  "item": "Vaga: Educador físico (autônomo 1×/semana)",
+  "classificacao_final": "Despesa (pessoal)",
+  "total_2027": 28695.37,
+  "tipo_alerta": "Classificação",
+  "detalhe": "Autônomo seria serviço PF (RPA), não vaga CLT; fator de encargos não se aplica.",
+  "status": "Aberto"
+ }
+]

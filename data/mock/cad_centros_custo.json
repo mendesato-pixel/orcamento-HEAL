@@ -1,0 +1,122 @@
+[
+ {
+  "codigo_cc": "210",
+  "rotulo_cc": "210 – CETAS – Atendimento",
+  "diretoria": "Diretoria Técnica",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "211",
+  "rotulo_cc": "211 – CETAS – Oficinas",
+  "diretoria": "Diretoria Técnica",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "220",
+  "rotulo_cc": "220 – Enfermagem – Postos",
+  "diretoria": "Diretoria Assistencial",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "221",
+  "rotulo_cc": "221 – Enfermagem – Educação Permanente",
+  "diretoria": "Diretoria Assistencial",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "230",
+  "rotulo_cc": "230 – Farmácia",
+  "diretoria": "Diretoria Assistencial",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "240",
+  "rotulo_cc": "240 – Nutrição e Dietética",
+  "diretoria": "Diretoria Assistencial",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "250",
+  "rotulo_cc": "250 – Serviço Social",
+  "diretoria": "Diretoria Assistencial",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "260",
+  "rotulo_cc": "260 – NISA/CCIH",
+  "diretoria": "Diretoria Técnica",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "270",
+  "rotulo_cc": "270 – Moradia Assistida",
+  "diretoria": "Diretoria Assistencial",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "200",
+  "rotulo_cc": "200 – Diretoria Técnica",
+  "diretoria": "Diretoria Técnica",
+  "natureza": "Operacional"
+ },
+ {
+  "codigo_cc": "330",
+  "rotulo_cc": "330 – Manutenção Predial",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "331",
+  "rotulo_cc": "331 – Manutenção de Equipamentos",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "340",
+  "rotulo_cc": "340 – Hotelaria e Limpeza",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "320",
+  "rotulo_cc": "320 – Tecnologia da Informação",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "300",
+  "rotulo_cc": "300 – Recursos Humanos",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "301",
+  "rotulo_cc": "301 – Departamento Pessoal",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "310",
+  "rotulo_cc": "310 – Jurídico",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "315",
+  "rotulo_cc": "315 – Comunicação",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "325",
+  "rotulo_cc": "325 – Compras e Suprimentos",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ },
+ {
+  "codigo_cc": "305",
+  "rotulo_cc": "305 – Financeiro e Controladoria",
+  "diretoria": "Diretoria Administrativa",
+  "natureza": "Administrativo"
+ }
+]
